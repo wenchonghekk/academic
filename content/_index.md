@@ -69,7 +69,7 @@ sections:
           location: Seattle, WA
           date_start: '2023-05-15'
           date_end: '2023-08-18'
-          description: Devevoping large-scale multimodal deep generative model for fraud detection in Kindom.
+          description: Devevoping large-scale multimodal deep generative model for fraud detection in Kindom
               Responsibilities include:
 
               * Analysing
@@ -82,7 +82,7 @@ sections:
           location: Remote
           date_start: '2021-05-20'
           date_end: '2021-08-15'
-          description: Develop an uncertainty-aware deep learning model for geospatial inverse problem.
+          description: Develop an uncertainty-aware deep learning model for geospatial inverse problem
     design:
       columns: '2'
   # - block: accomplishments
