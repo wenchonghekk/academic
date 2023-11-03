@@ -42,6 +42,7 @@ education:
       year: 2024
     - course: M.S. in Computer Science
       institution: University of Alabama (Transfered to UF)
+      year: 2021
     - course: M.S. in Computational Mathematics
       institution: College of William Mary
       year: 2019
