@@ -70,11 +70,11 @@ sections:
           date_start: '2023-05-15'
           date_end: '2023-08-18'
           description: Devevoping large scale multimodal deep generative model for fraud detection in Kindom
-              Responsibilities include:
+              # Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              # * Analysing
+              # * Modelling
+              # * Deploying
         - title: Research Intern
           company: Los Alamos National Lab
           company_url: 'https://www.lanl.gov/'
