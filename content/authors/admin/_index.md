@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate of Computer Science
+role: Ph.D. Candidate in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.ufl.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My broad research area are  around  data science and machine learning. Specifically, my research focus on  spatiotemporal data mining,  knowledge-informed machine learning, trustworthy AI (uncertainty and interpretability), and interdisciplinary scientific applications (geoscience and oceanography).
+bio: My broad research areas are   data science, machine learning and artificial intelligence. Specifically my research focuses on spatiotemporal data mining,  knowledge-informed machine learning, trustworthy AI as well as  interdisciplinary scientific applications in climate science, environmental monitoring and physics simulation. 
 
 # Interests to show in About widget
 interests:
@@ -118,5 +118,5 @@ social:
 highlight_name: true 
 ---
 
-Wenchong He is a Ph.D. candidate of Computer Science at the University of Florida. His broad research area are  around  data science and machine learning. Specifically, His research focus on  spatiotemporal data mining,  knowledge-informed machine learning, trustworthy AI (uncertainty and interpretability), and interdisciplinary scientific applications (geoscience and oceanography).
+Wenchong He is a Ph.D. candidate in Computer Science at the University of Florida. His broad research area are  around  data science and machine learning. Specifically, His research focus on  spatiotemporal data mining,  knowledge-informed machine learning, trustworthy AI (uncertainty and interpretability), and interdisciplinary scientific applications (geoscience and oceanography).
 {style="text-align: justify;"}
