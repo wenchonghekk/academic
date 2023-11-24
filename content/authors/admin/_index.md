@@ -118,5 +118,5 @@ social:
 highlight_name: true 
 ---
 
-Wenchong He is a Ph.D. candidate in Computer Science at the University of Florida. His broad research area are  around  data science and machine learning. Specifically, His research focus on  spatiotemporal data mining,  knowledge-informed machine learning, trustworthy AI (uncertainty and interpretability), and interdisciplinary scientific applications (geoscience and oceanography).
+My broad research areas are   data science, machine learning and artificial intelligence. Specifically my research focuses on spatiotemporal data mining,  knowledge-informed machine learning, trustworthy AI as well as  interdisciplinary scientific applications in climate science, environmental monitoring and physics simulation. 
 {style="text-align: justify;"}
