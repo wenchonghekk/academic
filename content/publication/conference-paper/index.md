@@ -7,6 +7,12 @@ title: 'A Hierarchical Spatial Transformer for Massive Point Samples in Continuo
 authors:
   - admin
   - Zhe Jiang
+  - Tingsong Xiao
+  - Zelin Xu
+  - Shigang Chen
+  - Ronald Fick
+  - Miles Medina
+  - Christine Angelini
   
 
 # Author notes (optional)
