@@ -50,41 +50,7 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Research Scientist Intern
-          company: Amazon
-          company_url: 'https://www.amazon.com/'
-          company_logo: Amazon_logo
-          location: Seattle, WA
-          date_start: '2023-05-15'
-          date_end: '2023-08-18'
-          description: Develop large-scale multimodal deep generative model for fraud detection in Kindom
-              # Responsibilities include:
-
-              # * Analysing
-              # * Modelling
-              # * Deploying
-        - title: Research Intern
-          company: Los Alamos National Lab
-          company_url: 'https://www.lanl.gov/'
-          company_logo: lanl_logo
-          location: Remote
-          date_start: '2021-05-20'
-          date_end: '2021-08-15'
-          description: Develop an uncertainty-aware deep learning model for geospatial inverse problem
-    design:
-      columns: '2'
+  
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -199,7 +165,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Full Publications
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
@@ -221,6 +187,42 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Research Scientist Intern
+          company: Amazon
+          company_url: 'https://www.amazon.com/'
+          company_logo: Amazon_logo
+          location: Seattle, WA
+          date_start: '2023-05-15'
+          date_end: '2023-08-18'
+          description: Develop large-scale multimodal deep generative model for fraud detection in Kindom
+              # Responsibilities include:
+
+              # * Analysing
+              # * Modelling
+              # * Deploying
+        - title: Research Intern
+          company: Los Alamos National Lab
+          company_url: 'https://www.lanl.gov/'
+          company_logo: lanl_logo
+          location: Remote
+          date_start: '2021-05-20'
+          date_end: '2021-08-15'
+          description: Develop an uncertainty-aware deep learning model for geospatial inverse problem
+    design:
+      columns: '2'
+  
   - block: tag_cloud
     content:
       title: Popular Topics
