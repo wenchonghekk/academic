@@ -223,42 +223,42 @@ sections:
     design:
       columns: '2'
   
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Email is the best way to contact me. 
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: whe2@ufl.edu
+      phone: 804 972 5902
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 432 Newell Dr
+        city: Gainesville
+        region: FL
+        postcode: '32611'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      directions: Enter Building 1 and take the stairs to Office 344 on Floor 3
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
+        # - icon: twitter
+        #   icon_pack: fab
+        #   name: DM Me
+        #   link: 'https://twitter.com/Twitter'
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'skype:echo123?call'
         - icon: video
           icon_pack: fas
           name: Zoom Me
