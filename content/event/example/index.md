@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: Oral Presentation at KDD 2022
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: KDD22 Conference
+event_url: https://kdd.org/kdd2022/paperRT.html
 
-location: Wowchemy HQ
+location: Washington DC Convention Center
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 801 Allen Y. Lew Place NW 
+  city: Washington
+  region: DC
+  postcode: '20001'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Present the paper "Quantifying and Reducing Registration Uncertainty of Spatial Vector Labels on Earth Imagery"
+abstract: 'Given raster imagery features and imperfect vector training labels with registration uncertainty, this paper studies a deep learning framework that can quantify and reduce the registration uncertainty of training labels as well as train neural network parameters simultaneously. The problem is important in broad applications such as streamline classification on Earth imagery or tissue segmentation on medical imagery, whereby annotating precise vector labels is expensive and time-consuming. However, the problem is challenging due to the gap between the vector representation of class labels and the raster representation of image features and the need for training neural networks with uncertain label locations. Existing research on uncertain training labels often focuses on uncertainty in label class semantics or characterizes label registration uncertainty at the pixel level (not contiguous vectors). To fill the gap, this paper proposes a novel learning framework that explicitly quantifies vector labels registration uncertainty. We propose a registration-uncertainty-aware loss function and design an iterative uncertainty reduction algorithm by re-estimating the posterior of true vector label locations distribution based on a Gaussian process. Evaluations on real-world datasets in National Hydrography Dataset refinement show that the proposed approach significantly outperforms several baselines in the registration uncertainty estimations performance and classification performance.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-08-16T13:00:00Z'
+date_end: '2020-08-16T14:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-08-16T00:00:00Z'
 
 authors: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit:  Zhe Jiang'
   focal_point: Right
 
 links:
@@ -49,7 +49,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
