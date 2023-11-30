@@ -275,6 +275,4 @@ sections:
           captcha: false
     design:
       columns: '2'
-
-<a href="https://clustrmaps.com/site/1bxlg"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=i30lCjGJF1X3F-h9rjjKjtqXWnjqCxdW6fDfOaDrKM8&cl=ffffff" /></a>
 ---
