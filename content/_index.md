@@ -275,4 +275,5 @@ sections:
           captcha: false
     design:
       columns: '2'
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=i30lCjGJF1X3F-h9rjjKjtqXWnjqCxdW6fDfOaDrKM8&cl=ffffff&w=a"></script>
 ---
