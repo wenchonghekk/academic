@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Wenchong He's Homepage '
+title: 'Wenchong He Homepage '
 date: 2022-10-24
 type: landing
 
