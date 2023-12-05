@@ -25,7 +25,8 @@ organizations:
     url: https://www.ufl.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate in Department of Computer & Information Science & Engineering at the University of Florida. My broad research areas are   data science, machine learning and artificial intelligence. Specifically my research focuses on spatiotemporal data mining,  knowledge-informed machine learning, trustworthy AI as well as  interdisciplinary scientific applications in climate science, environmental monitoring and physics simulation. <font size=3 color="#dd0000"> I am on the academic job market for tenure-track faculty position.</font><br />
+bio: I am a Ph.D. candidate in Department of Computer & Information Science & Engineering at the University of Florida. My broad research areas are   data science, machine learning and artificial intelligence. Specifically my research focuses on spatiotemporal data mining,  knowledge-informed machine learning, trustworthy AI as well as  interdisciplinary scientific applications in climate science, environmental monitoring and physics simulation. 
+# <font size=3 color="#dd0000"> I am on the academic job market for tenure-track faculty position.</font><br />
 
 # Interests to show in About widget
 interests:
@@ -118,6 +119,7 @@ social:
 highlight_name: true 
 ---
 
-I am a Ph.D. candidate in Department of Computer & Information Science & Engineering at the University of Florida. My broad research areas are   data science, machine learning and artificial intelligence. Specifically my research focuses on spatiotemporal data mining,  knowledge-informed machine learning, trustworthy AI as well as  interdisciplinary scientific applications in climate science, environmental monitoring and physics simulation. <font color="#dd0000"> I am on the academic job market for tenure-track faculty position this year.</font><br />
+I am a Ph.D. candidate in Department of Computer & Information Science & Engineering at the University of Florida. My broad research areas are   data science, machine learning and artificial intelligence. Specifically my research focuses on spatiotemporal data mining,  knowledge-informed machine learning, trustworthy AI as well as  interdisciplinary scientific applications in climate science, environmental monitoring and physics simulation. 
+<!-- <font color="#dd0000"> I am on the academic job market for tenure-track faculty position this year.</font><br /> -->
 
 {style="text-align: justify;"}
